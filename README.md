@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @shedmekhe
-- 👀 I’m interested in CP,Web D,DL
+- 👋 Hi, I’m Mayuresh Shedmekhe
+- 👀 I’m interested in CP, Web D, Open source events, DL
 - 🌱 I’m currently learning DL
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me mayurshedmekhe10@gmail.com
