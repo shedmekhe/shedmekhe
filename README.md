@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Mayuresh Shedmekhe
-- 👀 I’m interested in CP, Web D, Open source contributions, DL
+- 👋 Hi, I’m Mayuresh Shedmekhe.
+- 👀 I’m interested in CP, DSA, Web D, Open source contributions, DL
 - 🌱 I’m currently learning DL
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me mayurshedmekhe10@gmail.com
