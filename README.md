@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mayuresh Shedmekhe.
-- 👀 I’m interested in CP, DSA, Web D, Open source contributions, DL
-- 🌱 I’m currently learning DL
+- 👀 I’m interested in CP, DSA, Web D, Open source contributions and DL
+- 🌱 I’m Backend Developer | Flutter Developer
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me mayurshedmekhe10@gmail.com
 
